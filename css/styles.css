@@ -1,3 +1,8 @@
+body{
+    padding: 50px 0px 0px 0px;
+    z-index:0;
+}
+
 .row-header{
     margin:0px auto;
     padding:0px auto;
@@ -29,3 +34,6 @@
     color:#0f0f0f;
 }
 
+.navbar-dark{
+    background-color: #512DA8;
+}
